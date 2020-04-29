@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56d9c9b4-e3e5-4d37-81e2-1b600674674d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SK1CLPQ1tucsPAkDUJ0kGSBEbG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/auction" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="auction" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Peppe\Workspace\Giuseppe_Napoli\src\main\java\auction\util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AuctionMain1">
+    <configuration name="AuctionMain0" type="Application" factoryName="Application" singleton="false" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="auction.AuctionMain" />
+      <module name="Giuseppe_Napoli" />
+      <option name="PROGRAM_PARAMETERS" value="-m 127.0.0.1 -id 0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuctionMain1" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="auction.AuctionMain" />
+      <module name="Giuseppe_Napoli" />
+      <option name="PROGRAM_PARAMETERS" value="-m 127.0.0.1 -id 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuctionMain2" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="auction.AuctionMain" />
+      <module name="Giuseppe_Napoli" />
+      <option name="PROGRAM_PARAMETERS" value="-m 127.0.0.1 -id 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuctionMain3" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="auction.AuctionMain" />
+      <module name="Giuseppe_Napoli" />
+      <option name="PROGRAM_PARAMETERS" value="-m 127.0.0.1 -id 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuctionableImplTest.testCheckAuction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Giuseppe_Napoli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="auction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="auction" />
+      <option name="MAIN_CLASS_NAME" value="auction.AuctionableImplTest" />
+      <option name="METHOD_NAME" value="testCheckAuction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuctionableImplTest.testCreateAuction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Giuseppe_Napoli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="auction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="auction" />
+      <option name="MAIN_CLASS_NAME" value="auction.AuctionableImplTest" />
+      <option name="METHOD_NAME" value="testCreateAuction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuctionableImplTest.testWrongCreateAuction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Giuseppe_Napoli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="auction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="auction" />
+      <option name="MAIN_CLASS_NAME" value="auction.AuctionableImplTest" />
+      <option name="METHOD_NAME" value="testWrongCreateAuction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AuctionMain3" />
+      <item itemvalue="Application.AuctionMain1" />
+      <item itemvalue="Application.AuctionMain2" />
+      <item itemvalue="Application.AuctionMain0" />
+      <item itemvalue="JUnit.AuctionableImplTest.testCreateAuction" />
+      <item itemvalue="JUnit.AuctionableImplTest.testWrongCreateAuction" />
+      <item itemvalue="JUnit.AuctionableImplTest.testCheckAuction" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AuctionMain0" />
+        <item itemvalue="JUnit.AuctionableImplTest.testWrongCreateAuction" />
+        <item itemvalue="JUnit.AuctionableImplTest.testCreateAuction" />
+        <item itemvalue="JUnit.AuctionableImplTest.testCheckAuction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56d9c9b4-e3e5-4d37-81e2-1b600674674d" name="Default Changelist" comment="" />
+      <created>1571297344130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571297344130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588000267331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588000267331" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1587988751720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587988751720" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587988846242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587988846242" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587988846242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587988846242" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587988846241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587988846241" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587988846242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587988846242" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1587988840456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587988840456" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587997675868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587997675868" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Giuseppe_Napoli$AuctionMain0.ic" NAME="AuctionMain0 Coverage Results" MODIFIED="1576754436290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
