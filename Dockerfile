@@ -1,12 +1,13 @@
-FROM openjdk:8
+FROM maven:3.5-jdk-8-alpine
+WORKDIR /app
+COPY src /app/src
+COPY pom.xml /app
+RUN mvn package
 
-ENV DISPLAY :10
+FROM openjdk:8-jre-alpine
+WORKDIR /app
+ENV MASTERIP=127.0.0.1
+ENV ID=0
+COPY --from=0 /app/target/auction-1.0-jar-with-dependencies.jar /app
 
-ARG JAR_FILE=target/auction-1.0-jar-with-dependencies.jar
-ARG JAR_LIB_FILE=target/lib/
-
-# copy target/auction-1.0.jar
-COPY ${JAR_FILE} app.jar
-
-# java -jar /usr/local/runme/app.jar
-ENTRYPOINT ["java","-jar","app.jar"]
+CMD /usr/bin/java -jar auction-1.0-jar-with-dependencies.jar -m $MASTERIP -id $ID
