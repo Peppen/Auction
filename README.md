@@ -6,5 +6,8 @@ Second-price auction is a non-truthful auction mechanism for multiple items.
 Each bidder places a bid. The highest bidder gets the first slot, the second-highest, the second slot and so on, 
 but the highest bidder pays the price bid by the second-highest bidder, the second-highest pays the price bid by the third-highest, and so on. 
 The systems allows the users to create new auction (with an ending time, a reserved selling price and a description), 
-check the status of an auction, and eventually place new bid for an auction.
+check the status of an auction, and eventually place new bid for an auction. As described in the AuctionMechanism Java API.
+
+# Requirements
+Projects was developed using Java languages (also, using Apache Maven as software project management) and TomP2P framework/library. TomP2P is a DHT with additional features, such as storing multiple values for a key. Each peer has a table (either disk-based or memory-based) to store its values. A single value can be queried / updated with a secondary key. The underlying communication framework uses Java NIO to handle many concurrent connections.
 
