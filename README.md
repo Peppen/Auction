@@ -10,6 +10,6 @@ check the status of an auction, and eventually place new bid for an auction. As 
 
 # Development
 Projects was developed using Java languages (also, using Apache Maven as software project management) and TomP2P framework/library. TomP2P is a DHT with additional features, such as storing multiple values for a key. Each peer has a table (either disk-based or memory-based) to store its values. A single value can be queried / updated with a secondary key. The underlying communication framework uses Java NIO to handle many concurrent connections. Project can be deployed also on a Docker container, that allows the users to easily execute the application peer. The application parameters can be easily managed using the Docker environment variables. The project provides a command line interface, that enables to exploit all functionalities developed and tested. <br> 
-<code>$ docker run -i -e MASTERIP="127.0.0.1" -e ID=0 homework-docker --name MASTER-PEER
-<br> $ docker run -i -e MASTERIP="172.17.0.2" -e ID=1 homework-docker --name GENERIC-PEER <\code>
+<code width="1000">$ docker run -i -e MASTERIP="127.0.0.1" -e ID=0 homework-docker --name MASTER-PEER
+$ docker run -i -e MASTERIP="172.17.0.2" -e ID=1 homework-docker --name GENERIC-PEER <\code>
 
