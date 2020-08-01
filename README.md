@@ -1,5 +1,5 @@
 # Auction Mechanism P2P
-<img src="https://rokt.com/wp-content/uploads/2019/04/auction-3.png" align="right" Hspace="8" Vspace="0" width="100" 
+<img src="https://rokt.com/wp-content/uploads/2019/04/auction-3.png" align="right" Hspace="8" Vspace="0" width="300" height="300"
 Border="0">
 Each peer can sell and buy goods using a Second-Price Auctions (EBay). 
 Second-price auction is a non-truthful auction mechanism for multiple items. 
