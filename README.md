@@ -1,4 +1,3 @@
-Exam Project for "Architetture Distribuite per il Cloud"
 # Auction Mechanism P2P
 <img src="https://rokt.com/wp-content/uploads/2019/04/auction-3.png" align="right" Hspace="8" Vspace="0" width="600" height="200"
 Border="0">
