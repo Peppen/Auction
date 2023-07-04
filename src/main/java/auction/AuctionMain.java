@@ -13,6 +13,8 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 
+// Application Main
+
 public class AuctionMain {
 
     private final static String AUCTION_NAME = " AUCTION NAME: ";
