@@ -15,6 +15,8 @@ import java.util.Map;
 
 import static org.junit.Assert.*;
 
+// Test Class
+
 public class AuctionableImplTest {
 
     private final static String AUCTION_NAME = "auctionName";
